@@ -1,12 +1,7 @@
-shared_script "@EC_AC/shared.lua" 
- client_script "@EC_AC/shared1.js" 
- server_script "@EC_AC/shared2.js"
-
-
 fx_version 'cerulean'
 game 'gta5'
 
-author 'YourName'
+author 'Bloody'
 description 'QBCore Reminder System'
 version '1.0.0'
 
